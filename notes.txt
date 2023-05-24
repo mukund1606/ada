@@ -1,0 +1,12 @@
+Q3.
+a.Write a program to find Maximum and Minimum element in an array using Iteration.
+b.Write a program to find Maximum and Minimum element in an array using Recursion.
+Q4.
+Write a recursive program to find a ^ b.
+
+
+Additional 
+Q5.
+Write a program to find product of two numbers using recursion.
+Q6.
+Write a program to find GCD of two numbers using recursion.
