@@ -49,3 +49,6 @@ int main()
   printf("Maximum value that can be put into the knapsack: %d", knapsack(W, wt, val, n));
   return 0;
 }
+
+// Time Complexity: O(nW)
+// Space Complexity: O(nW)
